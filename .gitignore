@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.venv/
+.harness/
+__pycache__/
+*.pyc
+*.tgz
+.env*
+coverage/

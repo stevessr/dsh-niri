@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Niri 计算机操作",
+    "description": "通过 IPC、无障碍接口及带状态校验的 Wayland 输入观察和操作本地 niri 桌面，默认只读。"
+  }
+}

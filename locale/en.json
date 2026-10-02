@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Niri computer use",
+    "description": "Observe and control a local niri desktop through IPC, accessibility and guarded Wayland input. Read-only by default."
+  }
+}
